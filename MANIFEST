@@ -1,0 +1,21 @@
+Changes
+MANIFEST
+Makefile.PL
+NSS.xs
+README
+db/cert8.db
+db/key3.db
+db/secmod.db
+lib/Crypto/NSS.pm
+lib/Crypto/NSS/Constants.pm
+lib/Crypto/NSS/PKCS11.pm
+lib/Crypto/NSS/SSL.pm
+lib/Net/NSS/SSL.pm
+ppport.h
+t/01-load.t
+t/02-ssl.t
+t/03-ssl-socket.t
+t/pod-coverage.t
+t/pod.t
+typemap
+META.yml                                 Module meta-data (added by MakeMaker)
